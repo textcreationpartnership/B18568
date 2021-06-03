@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Conrade Griebe, Gent. To the right honourable the knights, citizens, and burgessess, in Parliament assembled.</title>
+            <author>Griebe, Conrade.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18568</idno><idno type="EEBO-CITATION">99885954</idno>
+  <idno type="VID">188573</idno>
+  <idno type="EEBO-PROQUEST">2240899959</idno>
+  
+            <idno type="STC">Wing C898A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[34]</idno>
+            <idno type="STC">ESTC R225226</idno>
+            <idno type="PROQUEST">ocm99885954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885954e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188573)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Conrade Griebe, Gent. To the right honourable the knights, citizens, and burgessess, in Parliament assembled.</title>
+                  <author>Griebe, Conrade.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mutiny --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:188573:1"/>
+            <head>The CASE of <hi>CONRADE GREIBE,</hi> Gent.</head>
+            <head type="sub">To the Right Honourable the Knights, Citizens, and Burgesses, in Parliament assembled.</head>
+            <p>
+               <hi>HUMBLY SHEWETH,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the said <hi>Greibe</hi> faithfully serv'd His present Majesty in the late Wars in <hi>Ireland,</hi> as Adjutant to a Regiment of <hi>Dutch</hi> Horse, com<g ref="char:EOLhyphen"/>manded by <hi>John Seyger, Baron van Rechteren,</hi> Collonel, <hi>a Relation of the Right Honourable my Lord Portland</hi>'s; which said <hi>Collonel</hi> did abuse his <hi>Regiment</hi> to such a degree that they mutini'd. <hi>Greibe</hi> petitioned His Majesty for Redress: Whereupon His Majesty was graciously pleased to command the said <hi>Collonel Rechteren</hi> to be tried by a <hi>Court-Martial,</hi> where <hi>Greibe</hi> had his Discharge in the great Room at the Horse-guard at <hi>Whitehall,</hi> of which <hi>Court-Martial</hi> the <hi>Honourable Brigadier Thomas Earl</hi> was <hi>President;</hi> where the Articles alledged to his Charge were so amply proved by <hi>Greibe</hi> against the said <hi>Collonel,</hi> that he remained in <hi>Dilgrace</hi> for some time after, and took care, in order to his re-establishment, to rectify some of those Abuses; amongst which, one chief thing that he did, was to pay to the said <hi>Conrade Greibe,</hi> your Petitioner, out of 200 <hi>l.</hi> then due to him for Arrears, the Sum of 150 <hi>l.</hi> which 150 <hi>l.</hi> was paid him with this <hi>Threat,</hi> That it was given him in order to <hi>send him out of the way,</hi> as his Wife was inform'd.</p>
+            <p>That accordingly some time after, notwithstanding his Sincerity to His Majesty's Interest, openly manifested as well abroad in War, as at home, in daring to complain against a man so <hi>potently upheld</hi> as the <hi>Baron Rechteren;</hi> the said <hi>Greibe</hi> was (as 'tis to be suppos'd) by the ma<g ref="char:EOLhyphen"/>lice of <hi>such Enemies</hi> as that <hi>Zeal</hi> of his to the <hi>King's Interest</hi> had raised him, represented to the <hi>Right Honourable Sir</hi> William Trumball, <hi>Secretary of State,</hi> &amp;c. as a <hi>Dangerous man</hi> in the time of the <hi>Late Horrid Conspiracy against His Majesty's most Sacred Person.</hi> And a <hi>Warrant,</hi> dated <hi>March</hi> 7. 1695/6. was issued out to Mr. <hi>James Kitson,</hi> a Messenger, <hi>to seize the said</hi> Greibe, <hi>and his Papers, for Treasonable Practices, and to bring him before the said Secretary to be examined, and to be further dealt with according to Law.</hi>
+            </p>
+            <p>That upon the 9th of <hi>March,</hi> Mr. <hi>Kitson,</hi> by vertue of that <hi>Warrant,</hi> did apprehend the said <hi>Greibe,</hi> and took him into custody to his own House; where, after a week's durance, there came a Message to <hi>Kitson,</hi> to order <hi>Kitson</hi> to clap <hi>Greibe in a Dungeon,</hi> if he had one; and that he should let him have neither Fire nor Candle, and that none of his Friends or Relations should be allowed the liberty to see or speak with him.</p>
+            <p>That upon the 27th of <hi>March,</hi> between One and Two a Clock at <hi>Night,</hi> there came a <hi>Dutch</hi> Serjeant, and a File or two of <hi>Dutch</hi> Musqueteers to Mr. <hi>Kitson</hi>'s, who forc'd him away almost without his Cloaths; and told him, <hi>They came to carry him to be examined.</hi> Mr. <hi>Kitson</hi> deliver'd him to those men; They hurried him to <hi>Gravesend,</hi> clapt him on Board of a <hi>Dutch</hi> Frigat, called the <hi>Errand of Amsterdam, Captain</hi> Ingenhove <hi>Commander;</hi> where without any Examination con<g ref="char:EOLhyphen"/>cerning those <hi>Treasonable Practices</hi> alledged against him in the Warrant whereby he was taken up, and from which he ought to have been cleared by <hi>Law,</hi> he was detained till they set Sail, under most severe Custody, not allowed Pen, nor Ink, nor Paper, nor so much as to speak to any body, (for fear he should get any one to acquaint his Wife) where he was, by word of mouth; and after all, without any form of Law, he was carried away beyond the Seas.</p>
+            <p>At last she received a Letter from her Husband (writ in the presence of the Gaoler) dated <hi>July</hi> the 2d <hi>Old Stile,</hi> from <hi>Stonegate</hi> Prison in <hi>Brussells,</hi> wherein he acquainted her, That he lies there deprived of all Necessaries, in a dismal Condition; and she was acquainted by one who came over, that he is in a Dungeon, that they give him Bread and Water, and indeed little enough of that. That he desired her to petition <hi>the Right Honourable the Parliament of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>to vindicate the Glory, the Justice of the</hi> English <hi>Laws, the Liberty and Property of the People they represent; That they would order him to be cleared by the Justice of those Law</hi> by which he stood committed, and desire to be tried.</p>
+            <p>His Wife did Petition the <hi>Honourable the House of Commons</hi> the last Session of <hi>Parliament,</hi> who out of their <hi>great Goodness and Justice</hi> were inclinable to redress her. Then the Right Honourable Sir <hi>William Trumball,</hi> did desire this Honourable House to give themselves no further trouble, for he would take care that she should have Relief, and likewise kindly proffer'd her a Pass to go over to him, and order'd her to attend him at his Office. Where he was pleas'd to tell her, That he had several times writ about it, but could get no Answer; He knew not how her Husband was dispos'd of, and bid her apply her self to my Lord <hi>Portland.</hi> In <hi>July</hi> last she had an opportunity to address to my Lort <hi>Portland,</hi> who told her, if she would bring Security for her Husband's Behaviour for the future, she might perhaps have him again. But she finds it impossible to get any Security, except she could tell what he is charg'd with, or unless he were here to answer for himself.</p>
+            <p>The 5th of <hi>August</hi> last, this poor Woman coming from Mr. Secretary's Office, at Three a Clock in the Afternoon, was struck down dead, which Blow, 'tis supposed, will shorten her Days. By the great indisposition of her Health since that, and the loss of her time in sollicit<g ref="char:EOLhyphen"/>ing this Affair so long, she has quite lost her Imploy, and is utterly undone. She knows not where to apply her self for any Relief, but to this Honourable House, and humbly begs for Jesus Christ's sake, your Consideration of her miserable Condition.</p>
+            <p>Your poor Petitioner <hi>Greibe</hi> humbly prays he may be brought for <hi>England,</hi> to have the be<g ref="char:EOLhyphen"/>nefit of the Laws of this Kingdom, by which he stood committed, and according to which, and no otherwise, he humbly sues to be dealt with. That if he hath done any thing amiss, he is ready to submit to any lawful Prosecution which shall be made against him. But if there be no grounds for any, (as he is sure there is none) that then by such Process of Law he may be discharg'd from his most hard Imprisonment. That he may not lye and rot in a Goal with<g ref="char:EOLhyphen"/>out just Cause, being able to serve the King and Country, which he is willing to do either by Sea or Land, and would be glad to venture his Life for such Service in the most dangerous Actions.</p>
+            <closer>
+               <hi>And your Petitioner shall ever pray,</hi> &amp;c.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188573:2"/>
+            <p>THE CASE OF <hi>Conrade Griebe,</hi> Gent.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
